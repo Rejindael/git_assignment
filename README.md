@@ -23,8 +23,16 @@
 
 # e. What is the difference between git and GitHub?
 
+ # Git is a version control system or platform while Github is just a host for all this. 
+
 # f. What does git diff do?
+
+ # allows you to have version control on your local drive and work on it separately then collaborate
 
 # g. What is the main branch?
 
+ # main branch is the original thread of code for a project 
+
 # h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+ # no, we should only push to main branch when we fully ready to commit to changes, until then - should work on a clone
